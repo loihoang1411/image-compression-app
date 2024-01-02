@@ -30,10 +30,10 @@ This is application's interface:
 ![image](https://github.com/loihoang1411/Image_Compression_Py-App/assets/126635820/74b21b86-1abe-418e-a1ac-7bffeafa20c1)
 
 1. **Add an image:**
-![image](https://github.com/loihoang1411/Image_Compression_Py-App/assets/126635820/ba3d7b12-8b00-48d6-bcb2-a18b762ebddc)
+![image](https://github.com/loihoang1411/Image_Compression_Py-App/assets/126635820/555cf863-f8c6-45b9-8d21-7d9246ad8517)
 
 2. **Data input:** SVD rank, FFT keep, Wavelet keep, PCA component:
-![image](https://github.com/loihoang1411/Image_Compression_Py-App/assets/126635820/c510ddf8-c0ba-4d41-9556-3cb4cfcdd32b)
+![image](https://github.com/loihoang1411/Image_Compression_Py-App/assets/126635820/be37f455-83b4-4895-bdef-95a16ca9b329)
 
   #### More detail:
   - I used to use .jpg or .png files.
