@@ -20,7 +20,7 @@ Since the image compression algorithms are still in the early stages of developm
       3. **Pillow** 10.1.0: ```pip install Pillow==10.1.0```
       4. **Numpy** 1.26.2: ```pip uninstall numpy==1.26.2```
       5. **PyWavelet** 1.5.0: ```pip install PyWavelets==1.5.0```
-      6. **Sklearn** 1.3.2: ```pip install scikit==1.3.2```
+      6. **Sklearn** 1.3.2: ```pip install scikit-learn==1.3.2```
       7. **Matplotlib** 3.8.2: ```pip install matplotlib==3.8.2```
       8. **Scikit-image**: ```pip install scikit-image==0.22.0```
   
