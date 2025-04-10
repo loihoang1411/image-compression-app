@@ -1,5 +1,5 @@
-# Image_Compression_Py-App
-An Image Compression app wrote by Python language, using CustomTkinter
+# Image Compression App
+An application wrote by Python language (using CustomTkinter library) to compress images.
 
 ## Table of Contents:
 - [Overview](#overview)
